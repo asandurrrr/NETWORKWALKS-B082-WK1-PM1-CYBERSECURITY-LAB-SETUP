@@ -117,6 +117,6 @@ Cybersecurity Student | Networkwalks B084
 🔗 
 
 ---
-
+LinkedIn: https://www.linkedin.com/in/asanda-noludwe-b5b8662ba/
 ## 📌 Project Information
 **Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup
